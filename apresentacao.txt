@@ -1,0 +1,7 @@
+Meu nome é Gerilson Amazonas;
+Estou no Curso de: 
+Licenciatura em Computação;
+Gosto de Python;
+Desejo me aprimorar em: 
+Analista de Dados!!!
+Full-stack!!!
